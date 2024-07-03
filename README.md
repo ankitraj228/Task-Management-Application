@@ -15,7 +15,7 @@ To run the backend locally, follow these steps:
 
 #### Installation
 1. Navigate to the backend directory:
-   ```bash
+  
    cd task-manager-api
 
 
