@@ -15,20 +15,21 @@ To run the backend locally, follow these steps:
 
 #### Installation
 1. Navigate to the backend directory:
-  
-   cd task-manager-api
+```bash
+cd task-manager-app
 
 
-install dependencies:
-
-Copy code
+#### Install dependencies:
+```bash
 npm install
+
 Starting the Backend Server
-Start the backend server:
+#### Start the backend server:
+```bash
 npm start
 The backend server will start running on http://localhost:3000.
 
-Frontend (task-manager-app)
+#### Frontend (task-manager-app)
 The frontend of the application is built using React.
 
 To run the frontend locally, follow these steps:
@@ -36,20 +37,18 @@ To run the frontend locally, follow these steps:
 Prerequisites
 Node.js installed
 Installation
-Navigate to the frontend directory:
-
+#### Navigate to the frontend directory:
+```bash
 cd task-manager-app
-Install dependencies:
-
+#### Install dependencies:
+```bash
 npm install
-Starting the Frontend Development Server
+#### Starting the Frontend Development Server
 Start the frontend development server:
-
+```bash
 npm start
 The frontend application will start running on http://localhost:3000.
 
-markdown
-Copy code
 
 ### Final Steps
 
